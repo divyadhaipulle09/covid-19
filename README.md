@@ -4,7 +4,7 @@ This repository is a  comprehensive way to data pipeline solution to automate  e
 
 ![image](https://github.com/user-attachments/assets/043e5814-451e-48e0-b82a-cb6ce2c8f386)
 
-. Here's an overview of the architecture:
+# Overview
 **1.	Data Sources: Where your raw data originates.**
     ***COVID Data:*** Raw COVID-19 data files, possibly in CSV format, stored in an S3 bucket.
     ***Additional Data:*** Other relevant data such as hospital, region, and date information.
