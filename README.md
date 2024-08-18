@@ -8,7 +8,8 @@ This repository is a  comprehensive way to data pipeline solution to automate  e
 **1.	Data Sources: Where your raw data originates.**
 
     ****COVID Data:**** Raw COVID-19 data files, possibly in CSV format, stored in an S3 bucket.
-    ***Additional Data:*** Other relevant data such as hospital, region, and date information.
+    
+    ****Additional Data:**** Other relevant data such as hospital, region, and date information.
 
     
 **2.	Data Ingestion:**
